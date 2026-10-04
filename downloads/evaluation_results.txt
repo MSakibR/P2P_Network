@@ -1,0 +1,9 @@
+FINAL RESULT
+
+whisper base -
+Word Error Rate (WER)     : 0.396
+Character Error Rate (CER): 0.259
+
+whisper small - 
+Word Error Rate (WER)     : 0.331
+Character Error Rate (CER): 0.248
